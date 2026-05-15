@@ -1,13 +1,13 @@
 # Hi 👋, I'm Rupam Kumar Barnwal
 
-### Java Backend Developer | Spring Boot | Microservices | 1 Year Experience
+### Java Backend Developer | Spring Boot | Microservices | 2 Year Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-kumar-barnwal-b54b19226/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupamkumarbarnwal)
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 - 🔭 Java Backend Developer with 1 year of experience
 - 💡 Passionate about building scalable backend systems and microservices
@@ -34,7 +34,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### DevOps & Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -59,16 +58,6 @@
 #### 🚗 [Car Price Prediction](https://github.com/rupamkumarbarnwal/Car-Price-Prediction)
 > Machine learning model to predict car prices based on features
 - Tech: Python, Jupyter Notebook, Scikit-learn
-
----
-
-### 📊 GitHub Stats
-
-![Rupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupamkumarbarnwal&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupamkumarbarnwal&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupamkumarbarnwal&layout=compact&hide_border=true)
 
 ---
 
